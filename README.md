@@ -1,3 +1,0 @@
-# GST
-Terraform training repo
-
